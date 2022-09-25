@@ -1,4 +1,3 @@
-import Meta from "../components/Meta";
 import { MdKeyboardArrowDown } from "react-icons/md";
 import Services from "../components/Services";
 import LogoSlider from "../components/LogoSlider";
@@ -6,12 +5,6 @@ import LogoSlider from "../components/LogoSlider";
 export default function Home({ header }) {
 	return (
 		<div>
-			<Meta
-				title="Ubezpieczenia - Anna Kłodnicka"
-				keywords="Słowa klucze"
-				description="Opis strony"
-			/>
-
 			<section className="main">
 				{/* <h1>{header.data.attributes.title}</h1> */}
 

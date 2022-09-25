@@ -24,9 +24,11 @@ const Meta = ({ title, keywords, description }) => {
 };
 
 Meta.defaultProps = {
-	title: "Tytuł domyślny strony na zakładce",
-	keywords: "Słowa kluczowe dla wyszukiwarek",
-	description: "Opis widoczny w google pod adresem strony",
+	title: "Ubezpieczenia Anna Kłodnicka - Agencja Ubezpieczeniowa w Poniatowej",
+	keywords:
+		"ubezpieczenia Poniatowa, ubezpieczenie auta poniatowa, ubezpieczenie domu poniatowa, ubezpieczenie mieszkania poniatowa, gdzie ubezpieczyć w poniatowej, ubezpieczenia zdrowotne poniatowa, ubezpieczenia na życie poniatowa, ubezpieczenia nnw poniatowa",
+	description:
+		"Oferujemy Państwu ubezpieczenia OC, AC, NNW, majątkowe, komunikacyjne, turystyczne, zdrowotne, na życie. Mieścimy się na ul. Brzozowej 2 w Poniatowej. Zadzwoń i zapytaj o wycenę!",
 };
 
 export default Meta;

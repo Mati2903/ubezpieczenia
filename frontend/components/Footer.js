@@ -24,7 +24,7 @@ const Footer = () => {
 				<span>24-320 Poniatowa</span>
 				<a
 					target="_blank"
-					href="https://www.google.com/maps/place/Brzozowa+2,+24-320+Poniatowa/@51.189387,22.0646883,17z/data=!3m1!4b1!4m6!3m5!1s0x47228eabdfa2c299:0x86cf77bafaeb5715!8m2!3d51.189387!4d22.066877!16s%2Fg%2F11c5pjbls6"
+					href="https://www.google.com/maps/place/Ubezpieczenia+Anna+K%C5%82odnicka/@51.189387,22.066877,17z/data=!3m1!4b1!4m6!3m5!1s0x47228fba13faa2b9:0x973f335825a23f15!8m2!3d51.189387!4d22.066877!16s%2Fg%2F11ns55623h"
 				>
 					<FaMapMarkerAlt
 						style={{ fontSize: "1.7rem", marginRight: "5px", color: "#EA4335" }}
