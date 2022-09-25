@@ -3,7 +3,7 @@ import Meta from "../components/Meta";
 const LifeAndHealth = () => {
 	return (
 		<section className="life">
-			<Meta title="Zycie i zdrowie" />
+			<Meta title="Ubezpieczenia | Życie i zdrowie" />
 			<div className="life__header">
 				<h1 className="life__header-title">Sekcja Ubezpieczeń na życie</h1>
 				<img

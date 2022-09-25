@@ -3,7 +3,7 @@ import Meta from "../components/Meta";
 const Properties = () => {
 	return (
 		<section className="properties">
-			<Meta title="Nieruchomości" />
+			<Meta title="Ubezpieczenia | Nieruchomości" />
 			<div className="properties__header">
 				<h1 className="properties__header-title">Sekcja Nieruchomości</h1>
 				<img

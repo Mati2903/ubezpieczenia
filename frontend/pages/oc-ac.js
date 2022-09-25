@@ -3,7 +3,7 @@ import Meta from "../components/Meta";
 const OCAC = () => {
 	return (
 		<section className="ocac">
-			<Meta title="OC i AC" />
+			<Meta title="Ubezpieczenia | OC i AC" />
 			<div className="ocac__header">
 				<h1 className="ocac__header-title">Sekcja OC i AC</h1>
 				<img

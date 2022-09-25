@@ -32,7 +32,9 @@ const Footer = () => {
 					Znajdź nas na mapie
 				</a>
 			</div>
-			<div className="footer__copyright">Copyright © {year} Nazwa firmy</div>
+			<div className="footer__copyright">
+				Copyright © {year} Ubezpieczenia Anna Kłodnicka
+			</div>
 		</footer>
 	);
 };
