@@ -30,6 +30,7 @@
 
 		.life__desc-image {
 			max-width: 100%;
+			margin-bottom: 3rem;
 		}
 		.life__desc-info {
 			display: flex;
@@ -49,6 +50,9 @@
 	}
 	.life__description {
 		flex-wrap: nowrap;
+		.life__desc-image {
+			margin-bottom: 0;
+		}
 	}
 	.life__header-title {
 		padding-top: 0 !important;

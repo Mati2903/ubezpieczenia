@@ -29,6 +29,7 @@
 
 		.properties__desc-image {
 			max-width: 100%;
+			margin-bottom: 3rem;
 		}
 		.properties__desc-info {
 			display: flex;
@@ -48,6 +49,9 @@
 	}
 	.properties__description {
 		flex-wrap: nowrap;
+		.properties__desc-image {
+			margin-bottom: 0;
+		}
 	}
 	.properties__header-title {
 		padding-top: 0 !important;

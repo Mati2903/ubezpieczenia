@@ -29,6 +29,7 @@
 
 		.ocac__desc-image {
 			max-width: 100%;
+			margin-bottom: 3rem;
 		}
 		.ocac__desc-info {
 			display: flex;
@@ -48,6 +49,9 @@
 	}
 	.ocac__description {
 		flex-wrap: nowrap;
+		.ocac__desc-image {
+			margin-bottom: 0;
+		}
 	}
 	.ocac__header-title {
 		padding-top: 0 !important;

@@ -1,4 +1,6 @@
 import Meta from "../components/Meta";
+import House from "../public/assets/house.jpg";
+import Image from "next/image";
 
 const Properties = () => {
 	return (
