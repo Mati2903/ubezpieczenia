@@ -15,7 +15,7 @@ const LogoSlider = () => {
 
 	const imgCarousel = images.map((image) => {
 		return (
-			<div className="slide">
+			<div className="slide" key={image}>
 				<img src={image} alt="logo ubezpieczyciela" height="100" />
 			</div>
 		);

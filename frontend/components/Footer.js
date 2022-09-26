@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import { FaMapMarkerAlt } from "react-icons/fa";
 
 const Footer = () => {
@@ -9,16 +10,24 @@ const Footer = () => {
 				Mapa strony :
 				<ul>
 					<li>
-						<a href="/oc-ac">Ubezpieczenie pojazdu</a>
+						<Link href="/oc-ac">
+							<a>Ubezpieczenie pojazdu</a>
+						</Link>
 					</li>
 					<li>
-						<a href="/nieruchomosci">Ubezpieczenie nieruchomości</a>
+						<Link href="/nieruchomosci">
+							<a>Ubezpieczenie nieruchomości</a>
+						</Link>
 					</li>
 					<li>
-						<a href="/zycie-i-zdrowie">Ubezpieczenie na życie i zdrowie</a>
+						<Link href="/zycie-i-zdrowie">
+							<a>Ubezpieczenie na życie i zdrowie</a>
+						</Link>
 					</li>
 					<li>
-						<a href="/kontakt">Kontakt</a>
+						<Link href="/kontakt">
+							<a>Kontakt</a>
+						</Link>
 					</li>
 				</ul>
 			</div>
