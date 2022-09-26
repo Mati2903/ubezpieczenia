@@ -8,7 +8,6 @@ const Meta = ({ title, keywords, description }) => {
 			<meta name="description" content={description} />
 			<meta charSet="utf-8" />
 			<link rel="icon" href="/favicon.ico" />
-			<link rel="preconnect" href="https://fonts.googleapis.com"></link>
 			<link
 				rel="preconnect"
 				href="https://fonts.gstatic.com"

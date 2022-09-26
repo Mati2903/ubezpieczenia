@@ -17,6 +17,9 @@ const Footer = () => {
 					<li>
 						<a href="/zycie-i-zdrowie">Ubezpieczenie na życie i zdrowie</a>
 					</li>
+					<li>
+						<a href="/kontakt">Kontakt</a>
+					</li>
 				</ul>
 			</div>
 			<div className="footer__localization">

@@ -5,7 +5,7 @@ const LifeAndHealth = () => {
 		<section className="life">
 			<Meta title="Ubezpieczenia | Życie i zdrowie" />
 			<div className="life__header">
-				<h1 className="life__header-title">Sekcja Ubezpieczeń na życie</h1>
+				<h2 className="life__header-title">Ubezpieczenia na życie i zdrowie</h2>
 				<img
 					className="life__header-image"
 					src="./assets/family.jpg"

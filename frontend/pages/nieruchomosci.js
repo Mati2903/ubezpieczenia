@@ -5,7 +5,9 @@ const Properties = () => {
 		<section className="properties">
 			<Meta title="Ubezpieczenia | Nieruchomości" />
 			<div className="properties__header">
-				<h1 className="properties__header-title">Sekcja Nieruchomości</h1>
+				<h2 className="properties__header-title">
+					Ubezpieczenia domu i mieszkania
+				</h2>
 				<img
 					className="properties__header-image"
 					src="./assets/house.jpg"

@@ -5,7 +5,7 @@ const OCAC = () => {
 		<section className="ocac">
 			<Meta title="Ubezpieczenia | OC i AC" />
 			<div className="ocac__header">
-				<h1 className="ocac__header-title">Sekcja OC i AC</h1>
+				<h2 className="ocac__header-title">Ubezpieczenia komunikacyjne</h2>
 				<img
 					className="ocac__header-image"
 					src="./assets/car2.jpg"
